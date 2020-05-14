@@ -5,7 +5,7 @@
     "label": { "en": [ "Internet Archive Correct" ] },
     "homepage": [
       {
-        "id": "",
+        "id": "Home page for Internet Archive Correct",
         "type": "Text",
         "label": { "en": [ "Home page for Internet Archive Correct" ] },
         "format": "text/html"
@@ -23,6 +23,14 @@
         "id": "https://kywark.github.io/link-tests/internet-archive-correct/canvas-1/canvas",
         "type": "Canvas",
         "duration": 17,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://kywark.github.io/link-tests/internet-archive-correct/canvas-1/canvas/Full.json",
+            "label": "Full"
+          }
+        ],
         "items": [
           {
             "id": "https://kywark.github.io/link-tests/internet-archive-correct/canvas-1/paintings",
