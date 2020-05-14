@@ -5,7 +5,7 @@
     "label": { "en": [ "m4a" ] },
     "homepage": [
       {
-        "id": "",
+        "id": "Home page for m4a",
         "type": "Text",
         "label": { "en": [ "Home page for m4a" ] },
         "format": "text/html"
@@ -23,6 +23,14 @@
         "id": "https://kywark.github.io/link-tests/m4a/canvas-1/canvas",
         "type": "Canvas",
         "duration": 17,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://kywark.github.io/link-tests/m4a/canvas-1/canvas/full.json",
+            "label": "full"
+          }
+        ],
         "items": [
           {
             "id": "https://kywark.github.io/link-tests/m4a/canvas-1/paintings",
