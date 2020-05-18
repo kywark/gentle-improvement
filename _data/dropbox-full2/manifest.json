@@ -5,7 +5,7 @@
     "label": { "en": [ "DropBox Full2" ] },
     "homepage": [
       {
-        "id": "",
+        "id": "Home page for DropBox Full2",
         "type": "Text",
         "label": { "en": [ "Home page for DropBox Full2" ] },
         "format": "text/html"
@@ -23,6 +23,14 @@
         "id": "https://kywark.github.io/link-tests/dropbox-full2/canvas-1/canvas",
         "type": "Canvas",
         "duration": 17,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://kywark.github.io/link-tests/dropbox-full2/canvas-1/canvas/full.json",
+            "label": "full"
+          }
+        ],
         "items": [
           {
             "id": "https://kywark.github.io/link-tests/dropbox-full2/canvas-1/paintings",
