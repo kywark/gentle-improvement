@@ -30,6 +30,12 @@
             "id": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas/Full.json",
             "label": "Full"
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas/T-Layer.json",
+            "label": "T Layer"
+          }
         ],
         "items": [
           {
