@@ -1,0 +1,281 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas/T_Layer.json",
+  "type": "AnnotationPage",
+  "label": "T_Layer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas/T_Layer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "precious particularly to the object is themselves [noise] = precious particulary to the artists themselves",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "45.639999,49"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas/T_Layer-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "how i heard [laughter] okay can new you are r. us the get new has = howard [laughter] can you as the can you ask the security",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "69.089999,74.5"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas/T_Layer-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[noise] know mall than ten [noise] = no more than ten",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "111.68,118.81"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas/T_Layer-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[noise] smell the roses swerve [laughter] [noise] = move the rows forward",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "170.65,173.69"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas/T_Layer-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "she's giving us two novels in the last side he hears the out of a woman = she's given us two novels in the last five years the edible woman",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "349.65,353.61"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas/T_Layer-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "canadians stacey than sours as victims [noise] = canadians see themselves as victims",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "373.17,375.52"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas/T_Layer-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "news real men man end and firing school = news reel men and firing squad",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "593.49,596.66"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas/T_Layer-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[noise] useless of useless lewis ouse against mouse lipped snow moving in those = useless useless mouth against mouth lips moving in these",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "696.78,709.58"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas/T_Layer-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "slowly lift the bed reversed = slowly flawless but reversed",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "948.07,949.83"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas/T_Layer-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "they are important and it's two = they are important two (added word)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "980.26,981.9"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas/T_Layer-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "were loyal <unk> most = were loyal most (no discernable extra noise beyond words)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1135,1136.97"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas/T_Layer-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughter] they left = [laughter] they left [laughter (there was some light laughter before, but missed the big seconds of loud laughing from crowd)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2318.73,2325"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas/T_Layer-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "tried him neck than the movie for a certain period of tell = try and make the movie for a certain period of time",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2517.59,2519.9"
+        }
+      }
+    }
+  ]
+}
