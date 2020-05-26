@@ -23,6 +23,14 @@
         "id": "https://kywark.github.io/link-tests/ma-test/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3587.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://kywark.github.io/link-tests/ma-test/canvas-1/canvas/t_layer.json",
+            "label": "t_layer"
+          }
+        ],
         "items": [
           {
             "id": "https://kywark.github.io/link-tests/ma-test/canvas-1/paintings",
