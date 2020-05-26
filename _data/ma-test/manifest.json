@@ -30,6 +30,12 @@
             "id": "https://kywark.github.io/link-tests/ma-test/canvas-1/canvas/t_layer.json",
             "label": "t_layer"
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://kywark.github.io/link-tests/ma-test/canvas-1/canvas/n_layer.json",
+            "label": "n_layer"
+          }
         ],
         "items": [
           {
