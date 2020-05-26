@@ -23,6 +23,14 @@
         "id": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3587.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas/S_layer.json",
+            "label": "S_layer"
+          }
+        ],
         "items": [
           {
             "id": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/paintings",
