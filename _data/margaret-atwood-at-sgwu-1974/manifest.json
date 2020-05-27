@@ -13,7 +13,7 @@
     ],
     "provider": [
       {
-        "id": "https://montreal.spokenweb.ca/",
+        "id": "https://montreal.spokenweb.ca/sgw-poetry-readings/",
         "type": "Agent",
         "label": { "en": [ "SpokenWeb Montreal" ] }
       }
