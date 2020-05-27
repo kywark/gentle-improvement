@@ -1,5 +1,5 @@
 ---
 layout: manifest
-title: Margaret Atwood at SGWU, 1974
+title: Margaret Atwood at SGWU
 manifest_name: margaret-atwood-at-sgwu-1974
 ---

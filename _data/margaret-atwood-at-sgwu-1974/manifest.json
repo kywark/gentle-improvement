@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Margaret Atwood at SGWU, 1974" ] },
+    "label": { "en": [ "Margaret Atwood at SGWU" ] },
     "homepage": [
       {
         "id": "https://montreal.spokenweb.ca/sgw-poetry-readings/margaret-atwood-at-sgwu/",
         "type": "Text",
-        "label": { "en": [ "Home page for Margaret Atwood at SGWU, 1974" ] },
+        "label": { "en": [ "Home page for Margaret Atwood at SGWU" ] },
         "format": "text/html"
       }
     ],
