@@ -30,6 +30,12 @@
             "id": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas/S_Layer.json",
             "label": "S_Layer"
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://kywark.github.io/link-tests/margaret-atwood-at-sgwu-1974/canvas-1/canvas/E_Layer.json",
+            "label": "E_Layer"
+          }
         ],
         "items": [
           {
