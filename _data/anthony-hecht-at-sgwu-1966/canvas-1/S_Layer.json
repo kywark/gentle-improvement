@@ -1,0 +1,596 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer.json",
+  "type": "AnnotationPage",
+  "label": "S_Layer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Unknown Introducer speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hechthony Hecht speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "96"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hechthony Hecht reading \"A Hill\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "141"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "280,290"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht reading \"A Letter\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "299"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "404"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht reading \"The Vow\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "462"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "601"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht reading \"\"More Light! More Light!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "721"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "876"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht reading \"The Man Who Married Magdalen: Variation on a Theme by Louis Simpson\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1077"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1226"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht reading \"Message from the City\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1237"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1382"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht reading \"The Rume\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1415"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1674"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht reading \"The Song of the Flea\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1725"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1780"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht reading \"Behold the Lilies of the Field\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1818"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2074"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht reading \"Jason\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2116"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2222"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht reading \"Third Avenue in Sunlight\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2325"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2431"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht reading \"Birdwatches of America\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2474"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht reading \"The End of the Weekend\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2570"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2678"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/S_Layer-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Anthony Hecht reading \"The Dover Bitch\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2713"
+        }
+      }
+    }
+  ]
+}
