@@ -1,0 +1,281 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/T_Layer.json",
+  "type": "AnnotationPage",
+  "label": "T_Layer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/T_Layer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[noise] for the low bull franchise to collect beat the the empty cartons [noise] = for the local franchise to collect the empty carton",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "52.6,59.58"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/T_Layer-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "are maintaining jew human dignity do you think the proud see c._e._o.s = in maintaining human dignity do you think the proud seals",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "85.639,90.8"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/T_Layer-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "wool plan worries found do his sir great surprise = wolf land where he found to his great surprise",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "221.77,225.93"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/T_Layer-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughter] [noise] it was rubble new shouldn't = it was revolution",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "310.92,314.71"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/T_Layer-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "are puns stir or aren't new trips ours son drip are on trips ours been rot are runs spit art pit nurse are run sip art punt server or turn sip aren't chip runs our trips in ours burton = turnips are puns stir(?) are new trips are sun/son trip are un trips are spin rut are run spit are pit nurse are run sip are punt sir are turn sip are tip runs are turpsin are spurtin",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "395.82,410.01"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/T_Layer-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "this there's next booms called a trial than me  = this next one's called \"\"The Child in Me\"\"\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "469.41,471.22"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/T_Layer-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "things in never <unk> said [noise] your <unk> philly or mouth = the things you never said you fill your mouth",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "667,670.96"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/T_Layer-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "times to calm you made their witness to the truth = times to come you may bear witness to the truth",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "916.809,919.44"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/T_Layer-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "that's the did depressing [laughter] = that's the difference",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "937.17,940.21"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/T_Layer-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "this is christmas [noise] = but this is Christmas poem",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1007.27,1010.77"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/T_Layer-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "we will not carts hits a pace in your christmas  = we will not participate in your Christmas",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1062.15,1065.31"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/T_Layer-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "teaching um the ton fours we can mean here's the city [noise] = teaching um at Simon Frasier University",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1083.15,1087.19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/T_Layer-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "set <unk> ah [noise] flush i'm k. so snow method in a set the president and i also [noise] = set for example an FM set in the President's office",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1121.28,1128.15"
+        }
+      }
+    }
+  ]
+}
