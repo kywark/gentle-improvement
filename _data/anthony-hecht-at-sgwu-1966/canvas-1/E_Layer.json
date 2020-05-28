@@ -1,0 +1,218 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/E_Layer.json",
+  "type": "AnnotationPage",
+  "label": "E_Layer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/E_Layer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "rushing noise in background, cough",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "32.7199,34.28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/E_Layer-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "rushing noise in background, small movmeent in background",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "131.21,131.93"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/E_Layer-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "rushing noise in background",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "181.27,182.33"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/E_Layer-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "rushing in background",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "272.19,273.89"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/E_Layer-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "rushing in background, coughing, pages rustling",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "408,410.5"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/E_Layer-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "rushing in background",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "474.22,475.66"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/E_Layer-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "rushing noise in background, movement in background",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "613.06,614.94"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/E_Layer-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "rushing in background, small movements and thumps",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "714.799,715.84"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/E_Layer-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "rushing in background, slight page rustling",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "763.37,764.589"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/E_Layer-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "laughter towards end",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1148.51,1153.9"
+        }
+      }
+    }
+  ]
+}
