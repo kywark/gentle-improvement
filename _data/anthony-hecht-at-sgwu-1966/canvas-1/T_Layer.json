@@ -1,0 +1,218 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/T_Layer.json",
+  "type": "AnnotationPage",
+  "label": "T_Layer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/T_Layer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[noise] he's the also thoroughfare = he's the author",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "32.7199,34.28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/T_Layer-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "a huge deal = a hill",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "131.21,131.93"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/T_Layer-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<unk> eggs all titian = exaltation",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "181.27,182.33"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/T_Layer-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "but er blonde honest today = but at last today",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "272.19,273.89"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/T_Layer-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[noise] is called the volleyball = is called the vow",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "408,410.5"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/T_Layer-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "the fraleigh managers of golf clubs = the frail image of God",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "474.22,475.66"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/T_Layer-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "mall light moral light = more light, more light",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "613.06,614.94"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/T_Layer-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[noise] little red lobster fish [noise] = railroad station",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "714.799,715.84"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/T_Layer-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "that was but water 'em and = that was but one and",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "763.37,764.589"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas/T_Layer-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "for years and years and years but since the christians k. the places full of quiz [laughter] = for years and years and years but since the christians came the place's full of queers",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1148.51,1153.9"
+        }
+      }
+    }
+  ]
+}
