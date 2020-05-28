@@ -1,0 +1,386 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/T_Layer.json",
+  "type": "AnnotationPage",
+  "label": "T_Layer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/T_Layer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "presented [noise] buy = presented by (homophone)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1024.309999,1024.879999"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/T_Layer-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "how lucky [noise] it is done that you = how lucky it is that you (added done)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1050.22,1053.03"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/T_Layer-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "the last couple of little decades = the last couple a' decades (added little)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1074.28,1075.48"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/T_Layer-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "no taste asians = notations",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1124.49,1125.33"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/T_Layer-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "bush ah i take my refuge bally going in the black power = Buddha I take my refuge bowing in the black bower (Hits Bs hard)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1161.74,1165.52"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/T_Layer-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughter] [noise] [noise] in = and (no laughter, one cough)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1169.959999,1170.89"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/T_Layer-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "objection as can't v. may = objection this can't be me (loud objection)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1187.549999,1189.6"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/T_Layer-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "T:length of the <unk> bridge = length of the moat bridge (moat higher pitch)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1285.08,1286.45"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/T_Layer-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "the thrice <unk> real moment = the thrice real moment (<unk> being added a lot where no E)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1377.09,1378.67"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/T_Layer-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "these men in there to <unk>i<unk> uniforms = these men in their tiger uniforms (<unk> added, homophone)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1415.809999,1418.13"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/T_Layer-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "met horse voices declaring war = metal voices declaring war (cough-y sound when saying metal)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1456.32,1458.409999"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/T_Layer-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "love is so sweet in the spring <unk> in time = love is so sweet in the spring time",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1484.54,1489.12"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/T_Layer-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "T:[noise] months assumed = monsoon (no noise in recording)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1589.97,1591.09"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/T_Layer-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "off balance outlawed as i wrote = off bowed as i road",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1625.65,1629.4"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/T_Layer-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "giving birth in die [noise] = give birth and die",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1750.72,1753.09"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/T_Layer-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[noise] home when needle = home to a needle",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1762.32,1764.71"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/T_Layer-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "greed italy fried macaroni = greedily fried macaroni (language learning?)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1914.09,1915.63"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/T_Layer-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "making er jones jew meaning the songs = making uh tunes tuning the songs (tuning hit loud)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2981.65,2985.04"
+        }
+      }
+    }
+  ]
+}
