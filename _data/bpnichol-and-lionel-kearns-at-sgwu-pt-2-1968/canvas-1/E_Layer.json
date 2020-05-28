@@ -1,0 +1,281 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/E_Layer.json",
+  "type": "AnnotationPage",
+  "label": "E_Layer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/E_Layer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "laughter, mic feedback",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "52.6,59.58"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/E_Layer-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "mic feedback",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "85.639,90.8"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/E_Layer-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "mic feedback",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "221.77,225.93"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/E_Layer-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "said very low and sounded dense on mic, mic feedback, laughing just before",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "310.92,314.71"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/E_Layer-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "mic feedback, some fuzziness in recording",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "395.82,410.01"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/E_Layer-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "said far away from mic, pages rustling, rushing sound",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "469.41,471.22"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/E_Layer-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "rushing noise, page rustles, far away from mic, nothing too disturbing",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "667,670.96"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/E_Layer-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "rushing, pages rustling, \"\"bear\"\" was said loudly so it shorted out mic and caused feedback (clipping?)\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "916.809,919.44"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/E_Layer-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "rushing, mic feedback, laughter towards end",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "937.17,940.21"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/E_Layer-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "rushing, chair creaking, pages rustling",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1007.27,1010.77"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/E_Layer-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "other tape recorded over impacted transcription, rushing noise, pages rustling",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1062.15,1065.31"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/E_Layer-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "other tape recorded over impacted transcription, spoke softly, pages rustling, rushing noise",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1083.15,1087.19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/E_Layer-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "other tape recorded over impacted transcription, spoke softly, pages rustling, rushing noise",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1121.28,1128.15"
+        }
+      }
+    }
+  ]
+}
