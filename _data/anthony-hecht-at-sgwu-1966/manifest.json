@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Anthony Hecht at SGWU, 1966" ] },
+    "homepage": [
+      {
+        "id": "https://montreal.spokenweb.ca/sgw-poetry-readings/anthony-hecht-at-sgwu-1966/",
+        "type": "Text",
+        "label": { "en": [ "Home page for Anthony Hecht at SGWU, 1966" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://montreal.spokenweb.ca/",
+        "type": "Agent",
+        "label": { "en": [ "SpokenWeb Montreal" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2816.0,
+        "items": [
+          {
+            "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://montreal.spokenweb.ca/wp-content/uploads/2011/02/anthony_hecht_i006-11-041.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                  "duration": 2816.0
+                },
+                "target": "https://kywark.github.io/link-tests/anthony-hecht-at-sgwu-1966/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
