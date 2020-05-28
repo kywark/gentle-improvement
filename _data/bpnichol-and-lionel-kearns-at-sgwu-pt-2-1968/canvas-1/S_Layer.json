@@ -1,0 +1,827 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer.json",
+  "type": "AnnotationPage",
+  "label": "S_Layer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns in the middle of reading \"The Parable of the Seventh Seal\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "BP Nichol reads \"Historical Implications of Turnips\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "377"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "BP Nichol speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "422"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "BP Nichol reading \"Cycle Number 22\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "433"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "BP Nichol speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "469"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "BP Nichol reading \"The Child in Me\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "489"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "BP Nichol speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "550"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "BP Nichol reading \"The New New Canadian Captain PoetryLlues\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "588"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns reading Split\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "773"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "847"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns reading \"The Difference\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "880"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "940"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns reading \"Christmas Poem\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1011"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns reading \"University\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1135"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns reading \"Economic Chronology\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1164"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "BP Nichol reading \"Alimony, OldLaloney\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1182"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1585"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns reading \"Ventilation Parable\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1603"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns reading \"Creation\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1879"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "BP Nichol speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1912"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns reading",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1920"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "BP Nichol speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1941"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1971"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "BP Nichol reading \"Zero Phase\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1984"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "BP Nichol speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2076"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "BP Nichol reading \"Returning\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2098"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2269"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns reading \"It\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2293"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2325"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns reading \"Ambergris, a Statement on Source\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2395"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2442"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns reading \"Contra-Diction\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2472"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns reading \"Both\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2500"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2527"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns reading \"Friday at the Ex\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2587"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns reading \"Prototypes\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2614"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns speaking",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2733"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lionel Kearns reading \"End Poem\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2742"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas/S_Layer-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "BP Nichol reading",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/link-tests/bpnichol-and-lionel-kearns-at-sgwu-pt-2-1968/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2765"
+        }
+      }
+    }
+  ]
+}
