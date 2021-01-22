@@ -2,8 +2,8 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://example.com/collection.json",
     "type": "Collection",
-    "label": { "en": [ "Link Tests" ] },
-    "summary": { "en": [ "Kylie testing different audio links + types" ] },
+    "label": { "en": [ "" ] },
+    "summary": { "en": [ "" ] },
     "items": [
     ]
 }
