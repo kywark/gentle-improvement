@@ -2,8 +2,8 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://example.com/collection.json",
     "type": "Collection",
-    "label": { "en": [ "Improving Gentle Using SENT Metadata Structure" ] },
-    "summary": { "en": [ "Audio materials provided by SpokenWeb Montreal" ] },
+    "label": { "en": [ "Improving Gentle Transcription Using SENT Metadata Structure" ] },
+    "summary": { "en": [ "" ] },
     "items": [
     ]
 }
