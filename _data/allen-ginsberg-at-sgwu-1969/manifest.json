@@ -23,6 +23,14 @@
         "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3712.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/s_layer.json",
+            "label": "S_Layer"
+          }
+        ],
         "items": [
           {
             "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/paintings",

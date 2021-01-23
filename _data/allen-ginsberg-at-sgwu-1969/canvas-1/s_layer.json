@@ -1,0 +1,365 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/s_layer.json",
+  "type": "AnnotationPage",
+  "label": "S_Layer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/s_layer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "S",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1003"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/s_layer-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "S",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1003"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/s_layer-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "S",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1104.88"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/s_layer-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "S",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1136.67"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/s_layer-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "S",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1484.54,1489.12"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/s_layer-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "S",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2508.65"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/s_layer-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "S",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2541"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/s_layer-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "S",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2977.61"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/s_layer-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "S",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2992.01"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/s_layer-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "S",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3081.51"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/s_layer-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "S",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3151.36"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/s_layer-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "S",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3160.61"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/s_layer-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "S",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3283"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/s_layer-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "S",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3375"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/s_layer-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "S",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3445"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/s_layer-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "S",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3571"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/s_layer-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "S",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3648"
+        }
+      }
+    }
+  ]
+}
