@@ -27,6 +27,12 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/t_layer.json",
+            "label": "T_Layer"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/s_layer.json",
             "label": "S_Layer"
           }
