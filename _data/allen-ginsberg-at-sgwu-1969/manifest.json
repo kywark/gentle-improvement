@@ -27,25 +27,25 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/t_layer.json",
+            "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/t_layer.json",
             "label": "T_Layer"
           }
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/n_layer.json",
+            "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/n_layer.json",
             "label": "N_Layer"
           }
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/s_layer.json",
+            "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/s_layer.json",
             "label": "S_Layer"
           }
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/canvas/e_layer.json",
+            "id": "https://kywark.github.io/gentle-improvement/allen-ginsberg-at-sgwu-1969/canvas-1/e_layer.json",
             "label": "E_Layer"
           }
         ],
