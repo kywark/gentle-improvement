@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://kywark.github.io/link-tests/margaret-atwood-1974/manifest.json",
+    "id": "https://kywark.github.io/gentle-improvement/margaret-atwood-1974/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "Margaret Atwood, 1974" ] },
     "homepage": [
